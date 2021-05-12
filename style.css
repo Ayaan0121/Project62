@@ -1,0 +1,31 @@
+#body2{
+    background:;
+}
+.container
+{
+    text-align: center;
+}
+
+
+#MyCarousel{
+    
+    height:550px;
+    width:1150px;
+  
+    
+
+}
+
+
+
+
+
+#MyCarousel img{
+    height: 500px;
+    width: 1100px;
+}
+.carousel-inner p{
+     
+    color: white;
+    font-size: 40px;
+}
